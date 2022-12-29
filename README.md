@@ -1,6 +1,6 @@
-# Arrays:
+# Solution of 2000 Leet Code Problems in Python
 
-### Contents
+### Arrays
 
 | S. No. | Question | 
 |--------|----------|
