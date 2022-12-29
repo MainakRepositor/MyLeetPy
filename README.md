@@ -4,7 +4,7 @@
 
 | S. No. | Question | 
 |--------|----------|
-| 1 | [Build Array from Permutation](https://github.com/MainakRepositor/MyLeetPy/master/1.py) |
+| 1 | [Build Array from Permutation](https://github.com/MainakRepositor/MyLeetPy/1.py) |
 | 2 | [Concatenation of Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/2.py) |
 | 3 | [Running Sum of 1d Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/3.py) |
 | 4 | [Final Value of Variable After Performing Operations](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/4.py) |
