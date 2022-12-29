@@ -34,3 +34,33 @@
 | 28 | [Maximum Product Difference Between Two Pairs](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/28.py) |
 | 29 | [Count Good Triplets](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/29.py) |
 | 30 | [Flipping an Image](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/30.py) |
+| 31 | [Count Equal and Divisible Pairs in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/31.py) |
+| 32 | [Matrix Diagonal Sum](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/32.py) |
+| 33 | [Maximum Product of Two Elements in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/33.py) |
+| 34 | [Sum of All Subset XOR Totals](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/34.py) |
+| 35 | [Minimum Time Visiting All Points](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/35.py) |
+| 36 | [Find the Highest Altitude](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/36.py) |
+| 37 | [Number Of Rectangles That Can Form The Largest Square](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/37.py) |
+| 38 | [Find First Palindromic String in Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/38.py) |
+| 39 | [Cells with Odd Values in a Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/39.py) |
+| 40 | [Minimum Operations to Make the Array Increasing](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/40.py) |
+| 41 | [Find N Unique Integers Sum up to Zero](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/41.py) |
+| 42 | [Counting Words With a Given Prefix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/42.py) |
+| 43 | [Find Numbers with Even Number of Digits](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/43.py) |
+| 44 | [DI String Match](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/44.py) |
+| 45 | [Array Partition](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/45.py) |
+| 46 | [Find Greatest Common Divisor of Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/46.py) |
+| 47 | [Maximum Number of Pairs in Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/47.py) |
+| 48 | [Find Target Indices After Sorting Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/48.py) |
+| 49 | [N-Repeated Element in Size 2N Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/49.py) |
+| 50 | [Number of Students Doing Homework at a Given Time](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/50.py) |
+| 51 | [Sum of Unique Elements](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/51.py) |
+| 52 | [Sort Array By Parity](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/52.py) |
+| 53 | [Final Prices With a Special Discount in a Shop](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/53.py) |
+| 54 | [Merge Similar Items](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/54.py) |
+| 55 | [Count Negative Numbers in a Sorted Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/55.py) |
+| 56 | [Height Checker](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/56.py) |
+| 57 | [Divide Array Into Equal Pairs](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/57.py) |
+| 58 | [Replace Elements with Greatest Element on Right Side](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/58.py) |
+| 59 | [Baseball Game](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/59.py) |
+| 60 | [Maximum Units on a Truck](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/60.py) |
