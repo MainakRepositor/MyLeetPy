@@ -1,9 +1,12 @@
 class Solution:
-    def shortestToChar(self, S, C):
-        n, pos = len(S), -float('inf')
-        res = [n] * n
-        for i in range(n) + range(n)[::-1]:
-            if S[i] == C:
-                pos = i
-            res[i] = min(res[i], abs(i - pos))
-        return res
+    def shortestToChar(self, s: str, c: str) -> List[int]:
+        temp = []
+        ind = s.index(c)
+        for i in range(len(s)):
+            if abs(ind-i)>abs(s.find(c,i)-i):
+                ind = s.index(c,i)
+            if s[i]!=c:
+                temp.append(abs(ind-i))
+            else:
+                temp.append(0)
+        return temp
