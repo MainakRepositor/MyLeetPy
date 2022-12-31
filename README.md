@@ -64,3 +64,43 @@
 | 58 | [Replace Elements with Greatest Element on Right Side](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/58.py) |
 | 59 | [Baseball Game](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/59.py) |
 | 60 | [Maximum Units on a Truck](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/60.py) |
+| 61 | [Unique Number of Occurrences](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/61.py) |
+| 62 | [Count Prefixes of a Given String](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/62.py) |
+| 63 | [Keep Multiplying Found Values by Two](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/63.py) |
+| 64 | [Two Out of Three](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/64.py) |
+| 65 | [Make Array Zero by Subtracting Equal Amounts](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/65.py) |
+| 66 | [Longest Subsequence With Limited Sum](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/66.py) |
+| 67 | [The K Weakest Rows in a Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/67.py) |
+| 68 | [Sort Integers by The Number of 1 Bits](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/68.py) |
+| 69 | [Minimum Subsequence in Non-Increasing Order](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/69.py) |
+| 70 | [Make Two Arrays Equal by Reversing Subarrays](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/70.py) |
+| 71 | [Minimum Cost to Move Chips to The Same Position](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/71.py) |
+| 72 | [Squares of a Sorted Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/72.py) |
+| 73 | [Kth Distinct String in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/73.py) |
+| 74 | [Maximum Value of a String in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/74.py) |
+| 75 | [Shortest Distance to a Character](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/75.py) |
+| 76 | [Next Greater Element I](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/76.py) |
+| 77 | [Smallest Index With Equal Value](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/77.py) |
+| 78 | [Projection Area of 3D Shapes](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/78.py) |
+| 79 | [Sort Array By Parity II](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/79.py) |
+| 80 | [Check Distances Between Same Letters](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/80.py) |
+| 81 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/81.py) |
+| 82 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/82.py) |
+| 83 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/83.py) |
+| 84 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/84.py) |
+| 85 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/85.py) |
+| 86 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/86.py) |
+| 87 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/87.py) |
+| 88 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/88.py) |
+| 89 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/89.py) |
+| 90 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/90.py) |
+| 91 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/91.py) |
+| 92 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/92.py) |
+| 93 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/93.py) | 
+| 94 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/94.py) |
+| 95 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/95.py) |
+| 96 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/96.py) |
+| 97 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/97.py) |
+| 98 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/98.py) |
+| 99 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/99.py) |
+| 100 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/100.py) |
