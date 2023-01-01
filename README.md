@@ -84,23 +84,23 @@
 | 78 | [Projection Area of 3D Shapes](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/78.py) |
 | 79 | [Sort Array By Parity II](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/79.py) |
 | 80 | [Check Distances Between Same Letters](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/80.py) |
-| 81 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/81.py) |
-| 82 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/82.py) |
-| 83 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/83.py) |
-| 84 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/84.py) |
-| 85 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/85.py) |
-| 86 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/86.py) |
-| 87 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/87.py) |
-| 88 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/88.py) |
-| 89 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/89.py) |
-| 90 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/90.py) |
-| 91 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/91.py) |
-| 92 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/92.py) |
-| 93 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/93.py) | 
-| 94 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/94.py) |
-| 95 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/95.py) |
-| 96 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/96.py) |
-| 97 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/97.py) |
-| 98 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/98.py) |
-| 99 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/99.py) |
-| 100 | [](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/100.py) |
+| 81 | [Intersection of Two Arrays](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/81.py) |
+| 82 | [Lucky Numbers in a Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/82.py) |
+| 83 | [Number of Unequal Triplets in Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/83.py) |
+| 84 | [Single Number](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/84.py) |
+| 85 | [Pascal's Triangle](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/85.py) |
+| 86 | [Minimum Absolute Difference](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/86.py) |
+| 87 | [Find the Difference of Two Arrays](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/87.py) |
+| 88 | [Count Common Words With One Occurrence](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/88.py) |
+| 89 | [Island Perimeter](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/89.py) |
+| 90 | [Delete Columns to Make Sorted](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/90.py) |
+| 91 | [Count Pairs Of Similar Strings](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/91.py) |
+| 92 | [Matrix Cells in Distance Order](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/92.py) |
+| 93 | [Convert Sorted Array to Binary Search Tree](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/93.py) | 
+| 94 | [Keyboard Row](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/94.py) |
+| 95 | [Intersection of Multiple Arrays](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/95.py) |
+| 96 | [Sort Array by Increasing Frequency](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/96.py) |
+| 97 | [Toeplitz Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/97.py) |
+| 98 | [Relative Sort Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/98.py) |
+| 99 | [Find Common Characters](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/99.py) |
+| 100 | [Number of Students Unable to Eat Lunch](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/100.py) |
