@@ -104,3 +104,43 @@
 | 98 | [Relative Sort Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/98.py) |
 | 99 | [Find Common Characters](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/99.py) |
 | 100 | [Number of Students Unable to Eat Lunch](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/100.py) |
+| 101 | [Available Captures for Rook](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/101.py) | 
+| 102 | [Can Make Arithmetic Progression From Sequence](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/102.py) |
+| 103 | [Smallest Range I](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/103.py) |
+| 104 | [Shift 2D Grid](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/104.py) |
+| 105 | [Minimum Value to Get Positive Step by Step Sum](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/105.py) |
+| 106 | [Largest Positive Integer That Exists With Its Negative](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/106.py) |
+| 107 | [Find Words That Can Be Formed by Characters](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/107.py) |
+| 108 | [Find Nearest Point That Has the Same X or Y Coordinate](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/108.py) |
+| 109 | [Find the Middle Index in Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/109.py) |
+| 110 | [Check if Matrix Is X-Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/110.py) |
+| 111 | [Apply Operations to an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/111.py) | 
+| 112 | [Unique Email Addresses](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/112.py) |
+| 113 | [Two Furthest Houses With Different Colors](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/113.py) |
+| 114 | [Distribute Candies](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/114.py) |
+| 115 | [Number of Lines To Write String](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/115.py) |
+| 116 | [Sort Even and Odd Indices Independently](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/116.py) |
+| 117 | [Design HashSet](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/117.py) |
+| 118 | [Find the Distance Value Between Two Arrays](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/118.py) |
+| 119 | [Sign of the Product of an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/119.py) |
+| 120 | [Special Positions in a Binary Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/120.py) |
+| 121 | [Mean of Array After Removing Some Elements](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/121.py) | 
+| 122 | [Design HashMap](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/122.py) |
+| 123 | [Last Stone Weight](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/123.py) |
+| 124 | [Find All K-Distant Indices in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/124.py) |
+| 125 | [Crawler Log Folder](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/125.py) |
+| 126 | [Find Subarrays With Equal Sum](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/126.py) |
+| 127 | [Min Max Game](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/127.py) |
+| 128 | [Majority Element](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/128.py) |
+| 129 | [String Matching in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/129.py) |
+| 130 | [Calculate Amount Paid in Taxes](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/130.py) |
+| 131 | [Find Lucky Integer in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/131.py) | 
+| 132 | [Transpose Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/132.py) |
+| 133 | [Three Consecutive Odds](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/133.py) |
+| 134 | [Surface Area of 3D Shapes](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/134.py) |
+| 135 | [Maximum Ascending Subarray Sum](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/135.py) |
+| 136 | [Reshape the Matrix](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/136.py) |
+| 137 | [Min Cost Climbing Stairs](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/137.py) |
+| 138 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/138.py) |
+| 139 | [Time Needed to Buy Tickets](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/139.py) |
+| 140 | [Missing Number](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/140.py) |
