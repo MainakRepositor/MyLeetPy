@@ -144,3 +144,63 @@
 | 138 | [Average Salary Excluding the Minimum and Maximum Salary](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/138.py) |
 | 139 | [Time Needed to Buy Tickets](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/139.py) |
 | 140 | [Missing Number](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/140.py) |
+| 141 | [Defuse the Bomb](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/141.py) |
+| 142 | [Contains Duplicate](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/142.py) |
+| 143 | [Move Zeroes](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/143.py) |
+| 144 | [Flood Fill](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/144.py) |
+| 145 | [Minimum Cost of Buying Candies With Discount](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/145.py) |
+| 146 | [Fair Candy Swap](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/146.py) |
+| 147 | [Best Poker Hand](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/147.py) |
+| 148 | [Most Frequent Number Following Key In an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/148.py) |
+| 149 | [Special Array With X Elements Greater Than or Equal X](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/149.py) |
+| 150 | [Pascal's Triangle II](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/150.py) |
+| 151 | [Largest Triangle Area](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/151.py) |
+| 152 | [Maximum Population YearCount Elements With Strictly Smaller and Greater Elements](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/152.py) |
+| 153 | [Count Elements With Strictly Smaller and Greater Elements](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/153.py) |
+| 154 | [Find All Numbers Disappeared in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/154.py) |
+| 155 | [Relative Ranks](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/155.py) |
+| 156 | [Element Appearing More Than 25% In Sorted Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/156.py) |
+| 157 | [Count Special Quadruplets](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/157.py) |
+| 158 | [Slowest Key](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/158.py) |
+| 159 | [Shortest Completing Word](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/159.py) |
+| 160 | [Rank Transform of an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/160.py) |
+| 161 | [Check If All 1's Are at Least Length K Places Away](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/161.py) |
+| 162 | [Number of Distinct Averages](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/162.py) |
+| 163 | [Range Sum Query - Immutable](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/163.py) |
+| 164 | [Convert 1D Array Into 2D Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/164.py) |
+| 165 | [Average Value of Even Numbers That Are Divisible by Three](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/165.py) |
+| 166 | [Most Visited Sector in a Circular TrackMinimum Distance to the Target Element](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/166.py) |
+| 167 | [Minimum Distance to the Target Element](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/167.py) |
+| 168 | [Monotonic Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/168.py) |
+| 169 | [Find Resultant Array After Removing Anagrams](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/169.py) |
+| 170 | [Count Hills and Valleys in an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/170.py) |
+| 171 | [Finding 3-Digit Even Numbers](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/171.py) |
+| 172 | [Teemo Attacking](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/172.py) |
+| 173 | [Max Consecutive Ones](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/173.py) |
+| 174 | [Check Array Formation Through Concatenation](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/174.py) |
+| 175 | [Kth Missing Positive Number](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/175.py) |
+| 176 | [Degree of an Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/176.py) |
+| 177 | [Intersection of Two Arrays II](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/177.py) |
+| 178 | [Minimum Amount of Time to Fill Cups](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/178.py) |
+| 179 | [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/179.py) |
+| 180 | [Range Addition II](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/180.py) |
+| 181 | [Image Smoother](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/181.py) |
+| 182 | [Binary Search](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/182.py) |
+| 183 | [Largest Perimeter Triangle](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/183.py) |
+| 184 | [Best Time to Buy and Sell Stock](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/184.py) |
+| 185 | [Find Winner on a Tic Tac Toe Game](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/185.py) |
+| 186 | [Distance Between Bus Stops](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/186.py) |
+| 187 | [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/187.py) |
+| 188 | [Find Pivot Index](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/188.py) |
+| 189 | [Check If String Is a Prefix of Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/189.py) |
+| 190 | [Maximum Difference Between Increasing Elements](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/190.py) |
+| 191 | [Longest Harmonious Subsequence](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/191.py) |
+| 192 | [Minimum Index Sum of Two Lists](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/192.py) |
+| 193 | [Lemonade Change](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/193.py) |
+| 194 | [Verifying an Alien Dictionary](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/194.py) |
+| 195 | [Check if Every Row and Column Contains All Numbers](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/195.py) |
+| 196 | [Remove Element](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/196.py) |
+| 197 | [Duplicate Zeros](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/197.py) |
+| 198 | [Most Frequent Even Element](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/198.py) |
+| 199 | [Remove Duplicates from Sorted Array](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/199.py) |
+| 200 | [Maximize Sum Of Array After K Negations](https://github.com/MainakRepositor/MyLeetPy/blob/master/Arrays/200.py) |
