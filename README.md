@@ -1,4 +1,4 @@
-# Solution of 2000 Leet Code Problems in Python
+# Solution of 200 Leet Code Problems in Python
 
 ### Arrays
 
